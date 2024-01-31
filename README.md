@@ -8,6 +8,7 @@ O sistema possui:
 * CRUD utilizando o Dapper
 * Relacionamento de tabelas
 * Mapeamento com Orientação a Objetos
+* Repository Patterns
 
 ## Ferramentas utilizadas:
 
